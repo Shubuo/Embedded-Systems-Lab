@@ -37,5 +37,4 @@ I used Proteus and AVR microcontroller,Atmega328/P, during laboratory studies of
 8. Serial Data Transmission
 
   
-ReadMe by https://github.com/mahmut-aksakalli/EmbeddedSystems
-  
+Special Thanks to https://github.com/mahmut-aksakalli/  
